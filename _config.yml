@@ -2,6 +2,7 @@ name: Blackpixel
 favicon: null
 layout_spectrum: 0.6235954049043357
 typography_spectrum: 0.602757039712742
+title: Blackpixel
 cta:
   domain: null
   bucket: null
