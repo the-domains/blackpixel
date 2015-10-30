@@ -1,7 +1,7 @@
 name: Blackpixel
 favicon: null
-layout_spectrum: 0.6235954049043357
-typography_spectrum: 0.602757039712742
+layout_spectrum: 1
+typography_spectrum: 0.89981
 title: Blackpixel
 cta:
   domain: null
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.4251996870152652
+  brandColors:
+    - '#2a2a2a'
+    - '#f9f9f9'
+    - '#757581'
+    - '#a2b4b4'
+    - '#9fe3f4'
+  brandStrength: 1
   lightness: 0.5779609254095703
   saturation: 0.28112177131697536
   rhythmicContrast: 0.846510116243735
